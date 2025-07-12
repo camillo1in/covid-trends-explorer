@@ -62,6 +62,24 @@ July 12, 2025 (Day 3 Preview)
 - Push all final changes  
 - Add project to LinkedIn + pin to GitHub profile
 
+## Insights
+
+### 1. Daily New Cases in the US
+- In early January 2020, reported cases were near zero.
+- The pipeline can trace trends across time for a given country.
+
+### 2. Countries with Highest Total Cases
+- US, China, and India lead globally in total reported cases.
+- Reflects spread across both developed and densely populated countries.
+
+### 3. Vaccination Progress (US)
+- Vaccinations began around December 13, 2020.
+- Data confirms rollout trends and provides week-by-week progression.
+
+### 4. GDP vs Total Deaths
+- The US has both high GDP per capita and high absolute death count.
+- Countries like India and Brazil show high deaths at much lower GDP per capita.
+
 ## GitHub Repo
 
 https://github.com/camillo1in/covid-trends-explorer
